@@ -1,6 +1,6 @@
 @echo off
 
-echo Creating Docker Image for Spring application
+echo Creating Jar for Spring application
 :execute
-docker build -t spring-appliation .
+mvn clean install -DskipTests=true
 
