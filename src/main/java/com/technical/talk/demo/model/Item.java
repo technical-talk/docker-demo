@@ -1,4 +1,4 @@
-package com.brightly.demo.model;
+package com.technical.talk.demo.model;
 
 import lombok.*;
 

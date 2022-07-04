@@ -1,6 +1,6 @@
 @echo off
 
 :execute
-docker build -t spring-appliation .
+docker build -t spring-application .
 
 

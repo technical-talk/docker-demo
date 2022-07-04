@@ -1,7 +1,7 @@
-package com.brightly.demo.service;
+package com.technical.talk.demo.service;
 
-import com.brightly.demo.model.Item;
-import com.brightly.demo.repository.ItemRepository;
+import com.technical.talk.demo.model.Item;
+import com.technical.talk.demo.repository.ItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

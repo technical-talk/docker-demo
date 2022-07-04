@@ -1,6 +1,6 @@
-package com.brightly.demo.repository;
+package com.technical.talk.demo.repository;
 
-import com.brightly.demo.model.Item;
+import com.technical.talk.demo.model.Item;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

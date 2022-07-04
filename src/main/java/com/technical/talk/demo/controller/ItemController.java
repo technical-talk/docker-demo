@@ -1,10 +1,8 @@
-package com.brightly.demo.controller;
+package com.technical.talk.demo.controller;
 
-import com.brightly.demo.model.Item;
-import com.brightly.demo.service.ItemService;
-import lombok.Getter;
+import com.technical.talk.demo.model.Item;
+import com.technical.talk.demo.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Required;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
